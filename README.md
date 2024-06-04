@@ -3,7 +3,7 @@ Mading Lomba menyediakan kabar dan berita lomba terbaru untuk anda!
 By : @Human0797
 <br />
 
-Screenshot :
+Screenshots :
 <br />
 <br />
 -Index
